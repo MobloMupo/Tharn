@@ -1,0 +1,93 @@
+{
+  "collapse-filter": true,
+  "search": "path:\"09 Campañas y Sesiones\" tag:#meta []",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "continente",
+      "color": {
+        "a": 1,
+        "rgb": 7877903
+      }
+    },
+    {
+      "query": "estado",
+      "color": {
+        "a": 1,
+        "rgb": 12730636
+      }
+    },
+    {
+      "query": "region",
+      "color": {
+        "a": 1,
+        "rgb": 1409085
+      }
+    },
+    {
+      "query": "asentamiento",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "localizacion",
+      "color": {
+        "a": 1,
+        "rgb": 3900150
+      }
+    },
+    {
+      "query": "personaje",
+      "color": {
+        "a": 1,
+        "rgb": 9133302
+      }
+    },
+    {
+      "query": "faccion",
+      "color": {
+        "a": 1,
+        "rgb": 10033947
+      }
+    },
+    {
+      "query": "conflicto",
+      "color": {
+        "a": 1,
+        "rgb": 14427686
+      }
+    },
+    {
+      "query": "escrito",
+      "color": {
+        "a": 1,
+        "rgb": 13273604
+      }
+    },
+    {
+      "query": "meta",
+      "color": {
+        "a": 1,
+        "rgb": 2042167
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.010952991388875788,
+  "close": false
+}

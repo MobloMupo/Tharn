@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "40c72819aac3f82c",
+    "type": "split",
+    "children": [
+      {
+        "id": "08e9502496e6a6ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0511323458a8ab3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Mundo/00 README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e60307f1614183f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad262cdd6bbdeb0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "519356e228e0cca7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "bbe713bd7e938567",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a96cb24074e677b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "5185cca9f50973fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd75f7fdc5447d32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40b3f86f9a429493",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "2e7d029fae425782",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "96d1713789a196fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e0d2efb72f5bf234",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "01954e4ce01ec71d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "251da0f9e7fefa77",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "80f487346e7d8cee",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "copilot:Open Copilot Chat": false,
+      "templater-obsidian:Templater": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "0511323458a8ab3b",
+  "lastOpenFiles": [
+    "README.md",
+    "00 Mundo/Historia Global/Cronología Resumida",
+    "00 Mundo/Historia Global/Cataclismos",
+    "00 Mundo/Historia Global/Eras",
+    "09 Campañas y Sesiones/00README.md",
+    "00 Mundo/00 README.md",
+    "08 Escritos y Saberes/00 README.md",
+    "07 Facciones/00 README.md",
+    "06 Personajes/00 README.md",
+    "05 Localizaciones/00 README.md",
+    "04 Asentamientos/00 README.md",
+    "03 Regiones/00 README.md",
+    "02 Estados y Reinos/00 README.md",
+    "01 Continentes/00 README.md",
+    "02 Estados y Reinos/Reino Ejemplo/Sin nombre",
+    "02 Estados y Reinos/Reino Ejemplo",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "Templates/Conflicto.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Índices/🎨 Graph_Preset.md",
+    "Templates",
+    "Índices",
+    "09 Campañas y Sesiones",
+    "Sin título.canvas"
+  ]
+}
