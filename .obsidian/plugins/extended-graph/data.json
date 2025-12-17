@@ -85,7 +85,7 @@
     "showAttachments": false,
     "hideUnresolved": false,
     "showOrphans": true,
-    "collapse-color-groups": true,
+    "collapse-color-groups": false,
     "colorGroups": [
       {
         "query": "continente",
@@ -156,9 +156,16 @@
           "a": 1,
           "rgb": 2042167
         }
+      },
+      {
+        "query": "evento",
+        "color": {
+          "a": 1,
+          "rgb": 9652340
+        }
       }
     ],
-    "collapse-display": false,
+    "collapse-display": true,
     "showArrow": false,
     "textFadeMultiplier": 0,
     "nodeSizeMultiplier": 1,
@@ -168,7 +175,7 @@
     "repelStrength": 10,
     "linkStrength": 1,
     "linkDistance": 250,
-    "scale": 0.0078125,
+    "scale": 0.010952991388875788,
     "close": false
   },
   "openInNewTab": false,

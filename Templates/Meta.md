@@ -1,10 +1,10 @@
-
 ---
 tipo: meta
-tags: [meta]
+tags:
+  - meta
 ---
 
-# <% tp.file.title %>
+# {{Meta}}
 
 ## Nota de diseño
 
