@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Mundo/00 README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 README"
+              "title": "README"
             }
           }
         ]
@@ -201,12 +201,17 @@
   },
   "active": "0511323458a8ab3b",
   "lastOpenFiles": [
+    "Índices/📒 Índice_Conflictos.md",
+    "Índices/🎨 Graph_Preset.md",
+    "00 Mundo/Historia Global/Eras/Sin título.md",
+    "00 Mundo/Historia Global/Cronología Resumida/Sin título.md",
+    "00 Mundo/Historia Global/Cataclismos/Sin título.md",
+    "00 Mundo/00 README.md",
     "README.md",
     "00 Mundo/Historia Global/Cronología Resumida",
     "00 Mundo/Historia Global/Cataclismos",
     "00 Mundo/Historia Global/Eras",
     "09 Campañas y Sesiones/00README.md",
-    "00 Mundo/00 README.md",
     "08 Escritos y Saberes/00 README.md",
     "07 Facciones/00 README.md",
     "06 Personajes/00 README.md",
@@ -227,13 +232,8 @@
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Índices/🎨 Graph_Preset.md",
     "Templates",
     "Índices",
     "09 Campañas y Sesiones",
