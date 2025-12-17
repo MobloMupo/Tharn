@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "e60f8872a3032223",
+    "type": "split",
+    "children": [
+      {
+        "id": "016eadcf0028a641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e893c41cf40c1876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Mundo/00 README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 README"
+            }
+          },
+          {
+            "id": "2206ed421c10b4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Mundo/Historia Global/Cataclismos/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83564dba7f2a6efd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cca92f244d8500bb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5a09dd18e2d2ebec",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4e6ef03d004aabd9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "37f987acbc6d5fa3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d1fa45300a4742e6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "09da6327a28249cd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "00 Mundo/Historia Global/Cataclismos/Untitled.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f3e6cfe885038000",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "00 Mundo/Historia Global/Cataclismos/Untitled.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d619483f4a3ec7a2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "00 Mundo/Historia Global/Cataclismos/Untitled.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "049f2cfe30f9d928",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "d8212f498fa4e98b",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_nodes",
+          "state": {},
+          "icon": "ag-node-list",
+          "title": "Juggl nodes"
+        }
+      },
+      {
+        "id": "bef62a2f972e4a5d",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_style",
+          "state": {},
+          "icon": "ag-style",
+          "title": "Juggl style"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "copilot:Open Copilot Chat": false,
+      "templater-obsidian:Templater": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "cca92f244d8500bb",
+  "lastOpenFiles": [
+    "00 Mundo/00 README.md",
+    "00 Mundo/Historia Global/Cataclismos/Untitled.md",
+    "00 Mundo/Historia Global/Eras/Sin título.md",
+    "00 Mundo/Historia Global/Eras",
+    "00 Mundo/Historia Global/Cronología Resumida/Sin título.md",
+    "00 Mundo/Historia Global/Cataclismos/Sin título.md",
+    "00 Mundo/Historia Global/Cronología Resumida",
+    "00 Mundo/Historia Global/Cataclismos",
+    "00 Mundo/Historia Global"
+  ]
+}
