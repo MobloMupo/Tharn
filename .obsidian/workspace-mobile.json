@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Mundo/Historia Global/Cataclismos/Untitled.md",
+                "file": "00 Mundo/Cosmologia/Dioses y panteones/Dioses/Segundo Nivel/Elyndra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Elyndra"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Rol",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00 Mundo/Historia Global/Cataclismos/Untitled.md",
+            "file": "Elyndra.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -204,6 +204,25 @@
   },
   "active": "cca92f244d8500bb",
   "lastOpenFiles": [
+    "00 Mundo/Cosmologia/Dioses y panteones/Panteones/Los Seis Pilares.md",
+    "00 Mundo/Cosmologia/Dioses y panteones/Dioses/Segundo Nivel/Elyndra.md",
+    "Templates/Asentamiento.md",
+    "00 Mundo/Cosmologia/Dioses y panteones/Dioses/Segundo Nivel/Vaelith.md",
+    "00 Mundo/Cosmologia/Dioses y panteones/Dioses/Segundo Nivel/Selyr.md",
+    "00 Mundo/Cosmologia/Dioses y panteones/Dioses/Segundo Nivel/Nymor.md",
+    "00 Mundo/Cosmologia/Dioses y panteones/Dioses/Primer Nivel/Kharnul.md",
+    "00 Mundo/Cosmologia/Dioses y panteones/Dioses/Segundo Nivel/Aethyra.md",
+    "00 Mundo/Cosmologia/Dioses y panteones/Dioses/Segundo Nivel/Khor-Val.md",
+    "00 Mundo/Cosmologia/Dioses y panteones/Dioses/Segundo Nivel",
+    "00 Mundo/Cosmologia/Dioses y panteones/Dioses/Primer Nivel",
+    "00 Mundo/Cosmologia/Dioses y panteones/Dioses/Primer Nivel/Veskar.md",
+    "00 Mundo/Historia Global/Cataclismos/Génesis.md",
+    "README.md",
+    "Templates/Meta.md",
+    "00 Mundo/Cosmologia/Dioses y panteones/Panteones",
+    "00 Mundo/Cosmologia/Dioses y panteones/Dioses",
+    "00 Mundo/Cosmologia/Génesis/La Primera Batalla.md",
+    "Templates/Faccion.md",
     "00 Mundo/00 README.md",
     "00 Mundo/Historia Global/Cataclismos/Untitled.md",
     "00 Mundo/Historia Global/Eras/Sin título.md",

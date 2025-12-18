@@ -71,7 +71,7 @@ La magia funciona al consumir Maná, agotando lentamente la estabilidad del mund
 
 Regiones ricas en Maná son fértiles y peligrosas; regiones pobres se degradan hacia el silencio y la esterilidad.
 
-De una gran nube de Maná se forma Tharn, un planeta sustentado por un núcleo de creación cristalizada.
+De una gran nube de Maná se forman [[Los Seis Pilares]], el cosmos y con el [[Tharn]], un planeta sustentado por un núcleo de creación cristalizada.
 
 Tharn existe en un equilibrio inestable entre la forma (Veskar) y la disolución (Kharnul).
 

@@ -10,6 +10,11 @@ conocimiento: publico
 aliases:
   - La Presencia
 ---
+“Si consigo crear algo que no quiera desaparecer, habré ganado.”
+
+Kharnul responde:
+“Todo se cansa.”
+
 
 # Veskar
 
@@ -95,12 +100,7 @@ Kharnul ve la creación como intrusión.
 Ambos creen estar haciendo lo correcto.
 
 Veskar piensa:
-“Si consigo crear algo que no quiera desaparecer, habré ganado.”
-
-Kharnul responde:
-“Todo se cansa.”
-
-#### Con Mortales
+### Con Mortales
 
 
 Celebra el cambio.
