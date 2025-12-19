@@ -7,6 +7,8 @@ afiliacion: Los Seis Pilares
 localizacion:
 estado: vivo
 conocimiento: publico
+aliases:
+  - La Fractura
 ---
 *La imperfección es resistencia.*
 

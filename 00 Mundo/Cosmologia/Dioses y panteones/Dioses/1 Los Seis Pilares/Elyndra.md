@@ -7,6 +7,8 @@ afiliacion: Los Seis Pilares
 localizacion:
 estado: vivo
 conocimiento: publico
+aliases:
+  - El Límite
 ---
 *"Aquí termina el ser."*
 # Elyndra

@@ -7,15 +7,14 @@ ambito:
 conocimiento: oculto
 ---
 
- _Son fragmentos conceptuales de Veskar, no individuos completos
- No nacen para ser adorados.
+_Son fragmentos conceptuales de [[Veskar]], no individuos completos
+No nacen para ser adorados.
 Nacen porque la realidad necesita estabilizarse_
 # Los Dioses Primarios de la Formación
 
 ## Objetivo
  
- Existen para sostener aspectos de la creación, no para gobernarla.
-
+Existen para sostener aspectos de la creación, no para gobernarla.
 Su función es hacer que Tharn no se desintegre
 
 ## Métodos

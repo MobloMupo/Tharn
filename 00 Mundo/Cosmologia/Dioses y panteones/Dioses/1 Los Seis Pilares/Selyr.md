@@ -7,6 +7,8 @@ afiliacion: Los Seis Pilares
 localizacion:
 estado: vivo
 conocimiento: publico
+aliases:
+  - El Ritmo
 ---
 
 *Nada ocurre a la vez. Así resiste el mundo.*
